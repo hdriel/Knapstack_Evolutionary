@@ -1,6 +1,6 @@
 # A Knapsack Evolutionary project
 
-## A JAVA Project in **Evolution programming**
+## **Evolution programming** in a Java Project
 
 Some computational problems, such as sorting numbers and searching in an ordered list, are quite easy to solve. In this course we have introduced efficient algorithms to
 solve such problems—and implemented them in Java. However, many—if not most—problems in real life are hard and either can be proved to admit no easy solution (i.e., no polynomial-time algorithm), or shown to belong to classes of problems wherein most likely easy solutions do not exist. The knapsack problem is an example of a
